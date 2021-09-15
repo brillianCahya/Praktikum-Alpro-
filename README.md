@@ -1,4 +1,4 @@
-# Praktikum-Agoritma-dan-Pemrograman
+# Praktikum-Algoritma-dan-Pemrograman
 
 👋 Hi There! 👋
 
