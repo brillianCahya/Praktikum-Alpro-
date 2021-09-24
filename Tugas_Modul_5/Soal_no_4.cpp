@@ -83,6 +83,7 @@ int main()
      for(i=1; i<=57+digit; i++){
         cout<<"=";
     }
+    cout<<"\n*harga kuota adalah Rp 6000,00/GB.";
     getch();
     return 0;   
 }
